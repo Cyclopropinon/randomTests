@@ -1,6 +1,6 @@
 cd
 dir
-ls -l
+ls -la
 cd ..
 dir
-ls -l
+ls -la
