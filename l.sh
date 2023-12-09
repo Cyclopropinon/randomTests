@@ -3,5 +3,5 @@ wifi
 alias
 lsusb
 lscpu
-einst upload ~/Desktop/Cyclopropinon.png
+einst upload ~/Schreibtisch/Cyclopropinon.png
 einst list
